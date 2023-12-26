@@ -1,0 +1,62 @@
+/* adding google fonts ----------//---------- */
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&family=Poppins:wght@400;500;700&display=swap");
+/* font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+/* css variables to reuse same color 
+----------++---------- */
+:root {
+  --clr-primary: #cfe4f5;
+  /* --clr-secondary: #f02602; */
+
+  --clr-black: #111111;
+  --clr-white: #fefefe;
+  --clr-light: #282828;
+}
+
+::selection {
+  background-color: var(--clr-primary);
+  color: var(--clr-black);
+}
+
+/* css reset 
+----------++---------- */
+
+/* repeated styles 
+----------++---------- */
+
+/* group text style ----------++---------- */
+
+/* header section style 
+----------++---------- */
+
+/* after the header style need to complete this hamburger icon style and design script than add container flex and other designs */
+/* hamburger icon style 
+----------++---------- */
+
+/* responsive navigation style 
+----------++---------- */
+
+/* hero section style 
+----------++---------- */
+
+/* about section style 
+----------++---------- */
+
+/* skills section style 
+----------++---------- */
+
+/* skill group style 
+----------++---------- */
+
+/* portfolio section style 
+----------++---------- */
+
+/* testimonials section style 
+----------++---------- */
+
+/* awards section style 
+----------++---------- */
+
+/* contact section style 
+----------++---------- */
