@@ -6,7 +6,7 @@ Fully functional responsive personal portfolio website design using HTML, CSS, a
 
 Learn how to create a fully functional responsive personal portfolio website using HTML, CSS, and JavaScript from scretch by watching this step by stap tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/197293)
+💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/the.codermj/e/197293)
 
 Thanks,
 [codermj](https://www.youtube.com/@thecodermj/)
